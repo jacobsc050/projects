@@ -2,7 +2,7 @@
 
 ## [Website Portfolio](https://jacobsc050.github.io/website-portfolio/)
 
-![image](https://github.com/jacobsc050/portfolio/blob/main/my_picture.png | height = 200)
+<img src="https://github.com/jacobsc050/portfolio/blob/main/my_picture.png" width="100" height="100">
 
 ### Project Summary
 
