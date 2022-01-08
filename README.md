@@ -6,7 +6,7 @@
 
 ### Project Summary
 
-This project used Bootstrap to build a place for me to show those my works
+This project used Bootstrap to build a place for me to show those my works.
 
 ### What this work demonstrates
 
@@ -19,7 +19,7 @@ Through this work I am able to demonstrate my ability to using HTML, CSS and I c
 
 ### Project Summary
 
-Using an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant
+Using an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
 
 ### What this work demonstrates
 
