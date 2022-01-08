@@ -23,7 +23,7 @@ Using Mark Beck's Qunatum Mechanics: Theory and Experiemnt I explored the quantu
 
 ### What this work demonstrates
 
-Through this work I am able to demonstrate my ability join reearch that has been going on for almost a decade and further it, specifying equipment needs then purchasing said equipment that allowed me to build apparatuses necessary to conduct the experiments, and working with professsor and undergraduates to conduct science. 
+Through this work I am able to demonstrate my ability join reearch that has been going on for almost a decade and further it, specifying equipment needs then purchasing said equipment that allowed me to build apparatuses necessary to conduct experiments, and working with professsors and undergraduates to conduct science. 
 
 
 ## [Temperature Controller with an Arduino](https://github.com/jacobsc050/temperature-controller-arduino)
