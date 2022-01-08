@@ -15,7 +15,7 @@ Through this work I am able to demonstrate my ability to using HTML, CSS and I c
 
 ## [Temperature Controller with an Arduino](https://github.com/jacobsc050/temperature-controller-arduino)
 
-![image](https://github.com/jacobsc050/portfolio/blob/main/my_picture.png)
+
 
 ### Project Summary
 
