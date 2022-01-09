@@ -34,7 +34,7 @@ This project used an arduino and thermistor to control the temperature of an imm
 
 ### What this work demonstrates
 
-Through this work I am able to demonstrate my ability to integrate hardware and software to complete a goal, calibrate devices through collecting and analyzing data, and use mathematics in a real world setting.  
+Through this work I am able to demonstrate my ability to integrate hardware and software to complete a goal, calibrate devices through collecting and analyzing data, and use of mathematics in a real world setting.  
 
 ## [Portfolio](https://jacobsc050.github.io/portfolio/)
 
