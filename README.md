@@ -29,7 +29,7 @@ Through this work I am able to demonstrate my ability join research that has bee
 
 ### Project Summary
 
-Using an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
+Using an integration sphere, psoc, and python I explore the effects of wavelength on avalanche currents of a reverse biased diode.
 
 ### What this work demonstrates
 
