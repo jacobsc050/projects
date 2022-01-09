@@ -40,7 +40,7 @@ Through this work I am able to demonstrate my ability to design an experiment, m
 
 ### Project Summary
 
-This project used an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
+This project used an arduino, thermistor, and imersion water heater to keep the temperature of water constant.
 
 ### What this work demonstrates
 
