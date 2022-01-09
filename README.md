@@ -9,7 +9,7 @@
 
 ### Project Summary
 
-This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt I explored correlated photons along with leading a team of three undergraduate students in performing these expriments.
+This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt. I explored correlated photons along with leading a team of three undergraduate students in performing these expriments.
 
 ### What this work demonstrates
 
@@ -19,7 +19,7 @@ Through this work I am able to demonstrate my ability to join research that has 
 
 ### Project Summary
 
-This project used an integration sphere, psoc, and python I explore the effects of wavelength of ambient photons on avalanche currents of a reverse biased diode.
+This project used an integration sphere, psoc, and python. I explored the effects of wavelength of ambient photons on avalanche currents of a reverse biased diode.
 
 ### What this work demonstrates
 
@@ -40,7 +40,7 @@ Through this work I am able to demonstrate my ability to integrate hardware and 
 
 ### Project Summary
 
-This project used Bootstrap to build a place for me to show employeers smaller examples of my work.
+This project used Bootstrap to build a website for me to show employeers smaller examples of my work in web development, data science, and computational physics.
 
 ### What this work demonstrates
 
