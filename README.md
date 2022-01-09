@@ -1,8 +1,8 @@
 # Christopher Jacobs' Projects
 
-## [Portfolio](https://jacobsc050.github.io/portfolio/)
-
 <img src=https://github.com/jacobsc050/projects/blob/main/assets/image.png width="300" height="300">
+
+## [Portfolio](https://jacobsc050.github.io/portfolio/)
 
 ### Project Summary
 
