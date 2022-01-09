@@ -44,7 +44,7 @@ This project used Bootstrap to build a place for me to show employeers smaller e
 
 ### What this work demonstrates
 
-Through this work I am able to demonstrate my ability to using HTML, CSS and I can span serval different fields (physics, mathematics, web development, data sceince) efficiently.
+Through this work I am able to demonstrate my ability to using HTML, CSS and I can span several different fields (physics, mathematics, web development, data sceince) efficiently.
 
 
 ## [Presentations and Pedagogy](https://github.com/jacobsc050/presentations-and-pedagogy)
