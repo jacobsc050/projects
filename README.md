@@ -19,7 +19,7 @@ Through this work I am able to demonstrate my ability to using HTML, CSS and I c
 
 ### Project Summary
 
-This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt I explored the quantum nature of light along with leading a team of three undergraduate students in doing this research.
+This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt I explored the quantum nature of light along with leading a team of three undergraduate students in performing these expriments.
 
 ### What this work demonstrates
 
