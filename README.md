@@ -15,7 +15,7 @@ This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt I explore
 
 Through this work I am able to demonstrate my ability join research that has been going on for almost a decade and furthering it, specifying equipment needs then purchasing said equipment that allowed me to build apparatuses necessary to conduct experiments, and working with professsors and undergraduates to conduct science. 
 
-## [Wavelength of  Ambient Light on Magnitude of  Avalanche Currents](https://github.com/jacobsc050/senior-thesis)
+## [Wavelength of  Ambient Light on Count of Avalanche Currents](https://github.com/jacobsc050/senior-thesis)
 
 ### Project Summary
 
