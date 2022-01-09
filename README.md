@@ -13,7 +13,7 @@ This project used Bootstrap to build a place for me to show employeers smaller e
 Through this work I am able to demonstrate my ability to using HTML, CSS and I can span serval different fields (physics, mathematics, web development, data sceince) efficiently.
 
 
-## [Exploring the Quantum Nature of Light](https://github.com/jacobsc050/quantum-mechanics)
+## [Exploring Correlated Photons](https://github.com/jacobsc050/quantum-mechanics)
 
 
 
@@ -25,7 +25,7 @@ This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt I explore
 
 Through this work I am able to demonstrate my ability join research that has been going on for almost a decade and furthering it, specifying equipment needs then purchasing said equipment that allowed me to build apparatuses necessary to conduct experiments, and working with professsors and undergraduates to conduct science. 
 
-## [Wavelength of Light and Avalanche Currents](https://github.com/jacobsc050/senior-thesis)
+## [Wavelength of  Ambient Light on Magnitude of  Avalanche Currents](https://github.com/jacobsc050/senior-thesis)
 
 ### Project Summary
 
