@@ -6,7 +6,7 @@
 
 ### Project Summary
 
-This project used Bootstrap to build a place for me to show those my works.
+This project used Bootstrap to build a place for me to show employeers smaller examples of my work.
 
 ### What this work demonstrates
 
