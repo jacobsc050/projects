@@ -9,11 +9,11 @@
 
 ### Project Summary
 
-This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt I explored the quantum nature of light along with leading a team of three undergraduate students in performing these expriments.
+This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt I explored correlated photons along with leading a team of three undergraduate students in performing these expriments.
 
 ### What this work demonstrates
 
-Through this work I am able to demonstrate my ability join research that has been going on for almost a decade and furthering it, specifying equipment needs then purchasing said equipment that allowed me to build apparatuses necessary to conduct experiments, and working with professsors and undergraduates to conduct science. 
+Through this work I am able to demonstrate my ability to join research that has been going on for almost a decade and further it, specify equipment that is needed then purchasing said equipment, and work with other scientists to conduct research. 
 
 ## [Wavelength of  Ambient Light on Count of Avalanche Currents](https://github.com/jacobsc050/senior-thesis)
 
