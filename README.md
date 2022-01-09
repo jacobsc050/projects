@@ -15,7 +15,7 @@ This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt. I explor
 
 Through this work I am able to demonstrate my ability to join research that has been going on for almost a decade and further it, specify equipment that is needed then purchasing said equipment, and work with other scientists to conduct research. 
 
-## [Senior Thesis](https://github.com/jacobsc050/senior-thesis)
+## [The Effects of Wavelength on an LED based Single Photon Avalanche Detector](https://github.com/jacobsc050/senior-thesis)
 
 ### Project Summary
 
