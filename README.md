@@ -2,16 +2,6 @@
 
 <img src=https://github.com/jacobsc050/projects/blob/main/assets/image.png width="300" height="300">
 
-## [Portfolio](https://jacobsc050.github.io/portfolio/)
-
-### Project Summary
-
-This project used Bootstrap to build a place for me to show employeers smaller examples of my work.
-
-### What this work demonstrates
-
-Through this work I am able to demonstrate my ability to using HTML, CSS and I can span serval different fields (physics, mathematics, web development, data sceince) efficiently.
-
 
 ## [Exploring Correlated Photons](https://github.com/jacobsc050/quantum-mechanics)
 
@@ -45,6 +35,16 @@ This project used an arduino and thermistor to control the temperature of an imm
 ### What this work demonstrates
 
 Through this work I am able to demonstrate my ability to integrate hardware and software to complete a goal, calibrate devices through collecting and analyzing data, and use mathematics in a real world setting.  
+
+## [Portfolio](https://jacobsc050.github.io/portfolio/)
+
+### Project Summary
+
+This project used Bootstrap to build a place for me to show employeers smaller examples of my work.
+
+### What this work demonstrates
+
+Through this work I am able to demonstrate my ability to using HTML, CSS and I can span serval different fields (physics, mathematics, web development, data sceince) efficiently.
 
 
 ## [Presentations and Pedagogy](https://github.com/jacobsc050/presentations-and-pedagogy)
