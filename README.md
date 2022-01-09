@@ -19,7 +19,7 @@ Through this work I am able to demonstrate my ability to using HTML, CSS and I c
 
 ### Project Summary
 
-Using Mark Beck's Quantum Mechanics: Theory and Experiemnt I explored the quantum nature of light along with mentoring three undergraduate students in the scientific method.
+This project used Mark Beck's Quantum Mechanics: Theory and Experiemnt I explored the quantum nature of light along with mentoring three undergraduate students in the scientific method.
 
 ### What this work demonstrates
 
@@ -29,7 +29,7 @@ Through this work I am able to demonstrate my ability join research that has bee
 
 ### Project Summary
 
-Using an integration sphere, psoc, and python I explore the effects of wavelength of ambient photons on avalanche currents of a reverse biased diode.
+This project used an integration sphere, psoc, and python I explore the effects of wavelength of ambient photons on avalanche currents of a reverse biased diode.
 
 ### What this work demonstrates
 
@@ -40,7 +40,7 @@ Through this work I am able to demonstrate my ability to design an experiment, m
 
 ### Project Summary
 
-Using an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
+This project used an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
 
 ### What this work demonstrates
 
@@ -51,7 +51,7 @@ Through this work I am able to demonstrate my ability to integrate hardware and 
 
 ### Project Summary
 
-As a student I have given many scentific presentations and have spent significant time thinking about pedagoy skills. This project shows off some of my work in this regard.
+This project includes scentific presentations and examples of pedagogy skills.
 
 ### What this work demonstrates
 
