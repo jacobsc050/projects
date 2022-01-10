@@ -57,4 +57,4 @@ This project includes scentific presentations and examples of pedagogy skills.
 
 Through this work I am able to demonstrate my ability to communicate science, produce imagary to assist in explanations and producing worksheets to assist students in learning.
 
-## [curriculum vitae](https://github.com/jacobsc050/projects/blob/main/assets/CV.pdf)
+## [Curriculum Vitae](https://github.com/jacobsc050/projects/blob/main/assets/CV.pdf)
