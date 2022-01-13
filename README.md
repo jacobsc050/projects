@@ -3,7 +3,7 @@
 <img src=https://github.com/jacobsc050/projects/blob/main/assets/image.png width="300" height="300">
 
 
-## [Exploring Correlated Photons](https://github.com/jacobsc050/quantum-mechanics)
+## [Correlated Photons and the Quantum Mechanical Model of Light](https://github.com/jacobsc050/quantum-mechanics)
 
 
 
