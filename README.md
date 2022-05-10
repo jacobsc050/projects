@@ -1,6 +1,6 @@
 # Christopher Jacobs' Projects
 
-<img src=https://github.com/jacobsc050/projects/blob/main/assets/image.png width="20%" height="20$">
+<img src=https://github.com/jacobsc050/projects/blob/main/assets/image.png width="100%" height="100%">
 
 
 ## [Correlated Photons and the Quantum Mechanical Model of Light](https://github.com/jacobsc050/quantum-mechanics)
