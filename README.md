@@ -1,6 +1,6 @@
 # Christopher Jacobs' Projects
 
-<img src=https://github.com/jacobsc050/projects/blob/main/assets/image.png width="300" height="300">
+<img src=https://github.com/jacobsc050/projects/blob/main/assets/image.png width="20" height="20">
 
 
 ## [Correlated Photons and the Quantum Mechanical Model of Light](https://github.com/jacobsc050/quantum-mechanics)
@@ -55,6 +55,6 @@ This project includes scentific presentations and examples of pedagogy skills.
 
 ### What this work demonstrates
 
-Through this work I am able to demonstrate my ability to communicate science, produce imagary to assist in explanations and producing worksheets to assist students in learning.
+Through this work I am able to demonstrate my ability to communicate science, produce imagery to assist in explanations and producing worksheets to assist students in learning.
 
 ## [Curriculum Vitae](https://github.com/jacobsc050/projects/blob/main/assets/CV.pdf)
